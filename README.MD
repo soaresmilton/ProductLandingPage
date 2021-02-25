@@ -30,11 +30,19 @@ disponibilizado gratuitamente pelo Free Code Camp.
 Neste trabalho foi utilizado somente HTML e CSS puros!
 O intuito desse projeto é finalizar os requisitos destacados pelo curso.
 
+# Desenvolvimento:
+
+A proposta era criar uma landing page de algum produto. Optei por fazer algo genérico, e acabou que o produto escolhido foram as placas de vídeo modelos RTX da Geforce.
+
+Além de criar a página, me preocupei em criar uma "identidade visual", portanto, criei a logo, que por sinal ficou muito clean.
+
+A ideia era criar a ideia que a loja fictícia "General Shop" tivesse criado um anúncio especificamente para aumentar as vendas de suas placas de vídeos. 
 
 # Resultado do projeto:
 
 Confira o resultado deste projeto aqui: [Landing Page](https://soaresmilton.github.io/ProductLandingPage/)
 
+Se quiser, confira este projeto pelo Code Pen: [Acesse aqui](https://codepen.io/soaresmiltinho/details/RwoQPaW)
 
 # Contribua com o projeto:
 
